@@ -1,6 +1,2 @@
 create a new branch
-<<<<<<< HEAD
 add new message so fast
-=======
-add new message so fast
->>>>>>> feature1
